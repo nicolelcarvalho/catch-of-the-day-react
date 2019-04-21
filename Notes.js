@@ -27,4 +27,9 @@ Deployed via Now
 Had to run `now ./build` to do so
 https://build.nicolelcarvalho.now.sh/store/nervous-fancy-elves
 
+echo "*" >> .gitignore in command line to add a gitignore file when pushing to github
+
+Ejecting from create-react-app and using setting up webpack:
+npm run eject
+
 */
